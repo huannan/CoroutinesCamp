@@ -18,6 +18,8 @@
 
         </activity>
         <activity android:name=".PracticeActivity2">
+        </activity>
+        <activity android:name=".PracticeActivity3">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
